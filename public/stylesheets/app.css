@@ -9,3 +9,9 @@ i.icon {
 #delete{
     display: inline;
 }
+.item img + .content{
+    margin: 20px 0;
+}
+.description {
+    margin-bottom: 20px;
+}
